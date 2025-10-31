@@ -2,6 +2,15 @@
 
 ![Homescreen screenshot](.github/home.png)
 
+# Flame Dashboard (Community Fork)
+
+This is a **community-maintained fork** of [pawelmalak/flame](https://github.com/pawelmalak/flame), revived and modernized by the [flame-ng](https://github.com/flame-ng) organization.
+
+> Flame-ng aims to continue development, improve security, and modernize the stack while
+remaining compatible with existing Flame installations.
+
+**License:** MIT (inherits from original project)
+
 ## Description
 
 Flame is self-hosted startpage for your server. Its design is inspired (heavily) by [SUI](https://github.com/jeroenpardon/sui). Flame is very easy to setup and use. With built-in editors, it allows you to setup your very own application hub in no time - no file editing necessary.
